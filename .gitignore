@@ -1,0 +1,7 @@
+# Backend
+backend/users.db
+backend/*.exe
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
